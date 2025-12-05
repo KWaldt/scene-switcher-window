@@ -16,7 +16,7 @@
 ### Package Manager
 - Window > Package Manager
 - \+ \> Install Package from git url
-- `https://github.com/KWaldt/scene-switcher-window`
+- `https://github.com/KWaldt/scene-switcher-window.git`
 
 ### Manual
 Download the [Scene Switcher Window](https://github.com/KWaldt/scene-switcher-window/blob/main/Editor/SceneSwitcherWindow.cs) and put it into an **Editor** folder.
