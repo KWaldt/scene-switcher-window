@@ -1,6 +1,6 @@
 {
   "name": "com.kristinawaldt.scene-switcher-window",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Scene Switcher Window",
   "description": "Editor window to switch between scenes.\nSupports additive loading and works at runtime for testing.\nScened need to be added to the build settings. Includes a button to easily add the open scene to the build settings.",
   "keywords": [],
