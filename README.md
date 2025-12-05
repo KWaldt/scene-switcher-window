@@ -18,5 +18,8 @@
 - \+ \> Install Package from git url
 - `https://github.com/KWaldt/scene-switcher-window.git`
 
+Note: This may throw an error on import due to the license file. You can just ignore that.
+<br>(If someone knows how to avoid it please [let me know](mailto:waldt.kristina@gmail.com)! I already switched the file type and added .meta file but alas.)
+
 ### Manual
 Download the [Scene Switcher Window](https://github.com/KWaldt/scene-switcher-window/blob/main/Editor/SceneSwitcherWindow.cs) and put it into an **Editor** folder.
